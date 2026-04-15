@@ -2,7 +2,7 @@
 
 **Course:** CS-PD-2026 | Spring 2026  
 **Instructor:** Zeshan Ahmad  
-**Combined Lab 5 and Lab 6 Deadline:** Wednesday 23 April 2026 at 23:59
+**Combined Lab 5 and Lab 6 Deadline:** Wednesday 22 April 2026 at 23:59
 
 ---
 
