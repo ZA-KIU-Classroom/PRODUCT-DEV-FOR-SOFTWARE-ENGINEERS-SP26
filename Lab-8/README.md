@@ -14,8 +14,7 @@
 | Group A | Thursday | 7 May 2026 | 14:00 to 16:00 
 | Group B | Friday | 8 May 2026 | 16:00 to 18:00 
 
-Both groups run in person. The Week 10 lecture earlier in the day is delivered via Google Meet (instructor abroad), but the labs run in person with the TA. The instructor will join the lab via Google Meet for the first 15 minutes of each session for Q&A, then hand back to the TA for the working session.
-
+The Week 10 lecture earlier in the day is delivered via Google Meet (instructor abroad)
 ---
 
 ## What You Are Building
