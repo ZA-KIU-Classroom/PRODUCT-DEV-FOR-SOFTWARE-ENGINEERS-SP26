@@ -11,8 +11,8 @@
 
 | Group | Day | Date | Time | Location |
 |-------|-----|------|------|----------|
-| Group A | Thursday | 7 May 2026 | 14:00 to 16:00 | Standard lab room |
-| Group B | Friday | 8 May 2026 | 16:00 to 18:00 | Standard lab room |
+| Group A | Thursday | 7 May 2026 | 14:00 to 16:00 
+| Group B | Friday | 8 May 2026 | 16:00 to 18:00 
 
 Both groups run in person. The Week 10 lecture earlier in the day is delivered via Google Meet (instructor abroad), but the labs run in person with the TA. The instructor will join the lab via Google Meet for the first 15 minutes of each session for Q&A, then hand back to the TA for the working session.
 
@@ -200,14 +200,6 @@ The activities are designed to fit two hours if the team is prepared. If you fal
 - Final versions must be in the repo by Wednesday 13 May 23:59 (Sprint 1 close-out deadline).
 - One resubmission allowed for up to 80% of lost participation marks per the syllabus.
 
----
-
-## Office Hours
-
-Booked via email at zeshan.ahmad@kiu.edu.ge for Google Meet. Recommended slots for this lab:
-
-- Tuesday 12 May, anytime 14:00 to 18:00 Tbilisi time.
-- Wednesday 13 May before the close-out deadline.
 
 ---
 
