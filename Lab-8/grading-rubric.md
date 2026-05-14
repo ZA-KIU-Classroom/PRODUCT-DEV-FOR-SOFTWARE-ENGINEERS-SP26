@@ -1,4 +1,4 @@
-# Lab 10 Grading Rubric
+# Lab 8 Grading Rubric
 
 **Course:** CS-PD-2026 Product Development for Software Engineers
 **Lab:** Lab 10 -- Growth Modeling
